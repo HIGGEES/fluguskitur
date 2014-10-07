@@ -1,2 +1,9 @@
 Flugan sem skeit á vegginn er besta myndin
+<<<<<<< HEAD
 Barbie the Movie er top 10
+=======
+
+Tad er ad koma Fluguskitur Reloaded
+
+asdfasdfsdaf
+>>>>>>> a04164ebfb68b946d6543b8f65095eb6abf66886
